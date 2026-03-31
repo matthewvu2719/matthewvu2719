@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Matthew
+<h1>Hey there! I'm Matthew</h1>
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Nerd%20face/3D/nerd_face_3d.png" width="120" alt="nerd face" />
 
