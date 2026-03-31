@@ -1,10 +1,8 @@
 <div align="center">
 
-<p style="font-size: 32px; font-weight: 600; margin: 0;">
+<p style="font-size: 100px; font-weight: 600; margin: 0;">
   Hey there! I'm Matthew
 </p>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Nerd%20face/3D/nerd_face_3d.png" width="120" alt="nerd face" />
 
