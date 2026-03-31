@@ -22,7 +22,7 @@ I'm a software engineer with experience in full-stack development and game devel
 
 | Project | Stack | Description |
 |---|---|---|
-| **Test Quest** | React · Python · FastAPI · LangGraph · Pinecone · GCP | AI study platform with a multi-agent system — generates notes, flashcards, mock exams & a C# WebGL pixel game reward economy |
+| **Test Quest** | React · Python · FastAPI · LangGraph · Pinecone · GCP | AI study platform with a multi-agent system - generates notes, flashcards, mock exams & a C# WebGL pixel game reward economy |
 | **Sheep Guard** | JavaScript · Chrome DNR · Bloom Filters · Gemini/Groq | 3-tier site blocker covering 10,000s of domains + AI-powered whitelist validation with a 3D Three.js sheep island |
 | **Ren** | Next.js · Three.js · Supabase · Gemini/Groq | Habit tracker that hijacks your new tab with a 3D sushi restaurant + dual AI assistants for mood & performance insights |
 
@@ -82,13 +82,5 @@ I'm a software engineer with experience in full-stack development and game devel
 
 </div>
 
----
 
-### GitHub Stats
 
-<div align="center">
-
-![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewvu2719&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewvu2719&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
