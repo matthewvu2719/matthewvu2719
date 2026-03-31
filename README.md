@@ -4,18 +4,18 @@
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Nerd%20face/3D/nerd_face_3d.png" width="120" alt="nerd face" />
 
+<p>
+I'm a software engineer with experience in full-stack development and game development.
+I build web apps that solve real-world problems, from an AI-powered focus companion
+to a multi-agent study platform. Currently diving deeper into AI and open to new opportunities.
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-hieu-vu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewvu2719)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewvu2719@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://matthewvu2719.github.io/)
 
 </div>
-
----
-
-### About Me
-
-I'm a software engineer with experience in full-stack development and game development. I build web apps that solve real-world problems, from an AI-powered focus companion to a multi-agent study platform. Currently diving deeper into AI and open to new opportunities.
 
 ---
 
