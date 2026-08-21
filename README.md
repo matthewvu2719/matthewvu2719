@@ -6,10 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Nerd%20face/3D/nerd_face_3d.png" width="120" alt="nerd face" />
 
-<p>
-I'm a software engineer with experience in full-stack development and game development.
-I build web apps that solve real-world problems, from an AI-powered focus companion
-to a multi-agent study platform. Currently diving deeper into AI and open to new opportunities.
+<p>I'm a software engineer specializing in LLMs, RAG, and multi-agent systems to build AI-powered applications
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-hieu-vu/)
